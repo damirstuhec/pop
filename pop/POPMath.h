@@ -10,7 +10,7 @@
 #import <Foundation/Foundation.h>
 #import <CoreGraphics/CoreGraphics.h>
 
-#import <POP/POPDefines.h>
+#import "POPDefines.h"
 
 #import "POPVector.h"
 
